@@ -1,17 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to QA Knowledge Base!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**QAKnowledgeBase** is an inspiration about all the topics I have learned during my experience as a QA Software Engineer.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The idea is to share knowledge from different topics to people who is just starting in the Software Quality Assurance field 
+and also for experienced QAs from who all the feedback, comments and knowledge is more than welcome.
 
 .. note::
 
    This project is under active development.
+   QAKnowledgeBase hosts its documentation on Read the Docs.
 
 Contents
 --------
@@ -20,3 +18,5 @@ Contents
 
    usage
    api
+
+
