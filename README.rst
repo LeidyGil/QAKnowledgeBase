@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Welcome to QA Knowledge Base!
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is a knowledge base about all the topics I have learned during my experience as a QA Software Engineer.
