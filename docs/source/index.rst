@@ -16,7 +16,16 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Functional Testing
+     UX/UI
+   Non-Functional Testing
+   Performance
+   Automation
+   Talks/Magazines
+   Interviews
+   Learning Platforms
+   Work Platforms
+   Certifications
+
 
 
