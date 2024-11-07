@@ -1,10 +1,7 @@
 Functional Testing
 ==================
 
-.. _typeoftest:
-
-Type Of Testing
----------------
+:doc: Type Of Testing
 
 .. _testcasestechniques:
 
